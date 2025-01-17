@@ -24,7 +24,7 @@ robust against the input delay.
 Suspension system health can deteriorate with the passage of time due to wear and tear of the suspension parts. Active suspension actuator should be robust to
 deal with such condition. This thesis deals with the design of a actuator fault
 tolerant Robust Hinf controller for full vehicle model.
-Robust Hinf controllers for disturbance rejection, parametric uncertainty eect
-minimization, delayed input eect minimization and fault tolerance have been
+Robust Hinf controllers for disturbance rejection, parametric uncertainty effect
+minimization, delayed input effect minimization and fault tolerance have been
 designed in this thesis for active suspension system. Simulation results are
 provided to evaluate the effectiveness of design.
